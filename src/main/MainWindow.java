@@ -130,7 +130,9 @@ public class MainWindow extends JPanel implements ActionListener
     private StatusWindow status;
     private ReportWindow report;
     private ConsoleVO console;
-
+    public void setStatus(StatusWindow wind){
+        status=wind;
+    }
 
     public static void initialiseFontSize(float multiplier)
     {
@@ -249,7 +251,7 @@ public class MainWindow extends JPanel implements ActionListener
         	{
         		status = null;
 				try {
-					download(event);
+					download();
 				} catch (FileNotFoundException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
@@ -286,7 +288,7 @@ public class MainWindow extends JPanel implements ActionListener
         fr.setVisible(true);
     }
 
-    private void download(ActionEvent event) throws FileNotFoundException
+    public void download() throws FileNotFoundException
     {
     	if(page == null) return;
 

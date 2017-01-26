@@ -1,0 +1,59 @@
+25/01/17 23:34:38: Type Old selected.
+25/01/17 23:34:40: Firmware 11.2 selected.
+25/01/17 23:34:42: Region USA selected.
+25/01/17 23:40:45: Type Old selected.
+25/01/17 23:40:47: Firmware 11.2 selected.
+25/01/17 23:40:49: Region USA selected.
+25/01/17 23:42:25: Type Old selected.
+25/01/17 23:42:26: Firmware 11.2 selected.
+25/01/17 23:42:27: Region USA selected.
+25/01/17 23:42:36: aeskeydb.bin is a magnet link but failed to open
+25/01/17 23:42:36: fbi-2.4.2-injectable.zip is a magnet link but failed to open
+25/01/17 23:42:36: data_input_v3.zip is a magnet link but failed to open
+25/01/17 23:42:36: Downloading from http://smealum.github.io/ninjhax2/starter.zip
+25/01/17 23:42:36: Saving to starter.zip
+25/01/17 23:42:38: Downloading from https://github.com/Steveice10/FBI/releases/download/2.4.7/FBI.zip
+25/01/17 23:42:38: Downloading from https://github.com/Hamcha/lumaupdate/releases/download/v1.4.2/lumaupdater-1.4.2.zip
+25/01/17 23:42:38: Saving to FBI.zip
+25/01/17 23:42:38: Downloading from https://github.com/AuroraWright/Luma3DS/releases/download/v6.6/Luma3DSv6.6.7z
+25/01/17 23:42:38: Saving to /cias/\lumaupdater-1.4.2.zip
+25/01/17 23:42:38: Saving to Luma3DSv6.6.7z
+25/01/17 23:42:38: Downloading from https://github.com/yellows8/hblauncher_loader/releases/download/v1.2/hblauncher_loader_v1.2.zip
+25/01/17 23:42:38: Saving to /cias/\hblauncher_loader_v1.2.zip
+25/01/17 23:42:38: Downloading from https://github.com/Plailect/SafeA9LHInstaller/releases/download/v2.0.6/SafeA9LHInstallerv2.0.6.7z
+25/01/17 23:42:38: Saving to /luma/payloads/\SafeA9LHInstallerv2.0.6.7z
+25/01/17 23:42:38: Downloading from https://github.com/AuroraWright/arm9loaderhax/releases/download/17%2F10/release.7z
+25/01/17 23:42:38: Saving to /a9lh/\release.7z
+25/01/17 23:42:38: release.7z successfully downloaded.
+25/01/17 23:42:39: SafeA9LHInstallerv2.0.6.7z successfully downloaded.
+25/01/17 23:42:39: Downloading from https://github.com/d0k3/Hourglass9/releases/download/v1.40/Hourglass9-20170115-232114.zip
+25/01/17 23:42:39: Downloading from https://github.com/Cruel/DspDump/releases/download/1.0/DspDump.3dsx
+25/01/17 23:42:39: Saving to /luma/payloads/\Hourglass9-20170115-232114.zip
+25/01/17 23:42:39: Saving to /3ds\DspDump.3dsx
+25/01/17 23:42:39: Luma3DSv6.6.7z successfully downloaded.
+25/01/17 23:42:39: Hourglass9-20170115-232114.zip successfully downloaded.
+25/01/17 23:42:39: starter.zip successfully downloaded.
+25/01/17 23:42:39: hblauncher_loader_v1.2.zip successfully downloaded.
+25/01/17 23:42:40: DspDump.3dsx successfully downloaded.
+25/01/17 23:42:43: Error extracting file: Luma3DSv6.6.7z zip headers not found. probably not a zip file
+25/01/17 23:42:43: Error extracting file: SafeA9LHInstallerv2.0.6.7z zip headers not found. probably not a zip file
+25/01/17 23:42:44: Error extracting file: release.7z zip headers not found. probably not a zip file
+25/01/17 23:42:45: FBI.zip successfully downloaded.
+25/01/17 23:42:46: lumaupdater-1.4.2.zip successfully downloaded.
+26/01/17 01:10:22: aeskeydb.bin is not for user's firmware (All).
+26/01/17 01:10:22: data_input_v4.zip is not for user's firmware (All).
+26/01/17 01:10:22: https://github.com/AuroraWright/arm9loaderhax/releases/download/17%2F10/release.7z is not for user's firmware (All).
+26/01/17 01:10:22: https://github.com/AuroraWright/SafeA9LHInstaller/releases/download/v2.6.7/SafeA9LHInstallerv2.6.7.7z is not for user's firmware (All).
+26/01/17 01:10:22: https://github.com/d0k3/Hourglass9/releases/download/v1.40/Hourglass9-20170115-232114.zip is not for user's firmware (All).
+26/01/17 01:10:27: aeskeydb.bin is not for user's firmware (All).
+26/01/17 01:10:27: fbi-2.4.2-injectable.zip is not for user's firmware (All).
+26/01/17 01:10:27: data_input_v3.zip is not for user's firmware (All).
+26/01/17 01:10:27: https://github.com/AuroraWright/arm9loaderhax/releases/download/17%2F10/release.7z is not for user's firmware (All).
+26/01/17 01:10:27: https://github.com/AuroraWright/Luma3DS/releases/download/v6.6/Luma3DSv6.6.7z is not for user's firmware (All).
+26/01/17 01:10:27: https://github.com/yellows8/hblauncher_loader/releases/download/v1.2/hblauncher_loader_v1.2.zip is not for user's firmware (All).
+26/01/17 01:10:27: https://github.com/d0k3/Hourglass9/releases/download/v1.40/Hourglass9-20170115-232114.zip is not for user's firmware (All).
+26/01/17 01:10:27: https://github.com/Hamcha/lumaupdate/releases/download/v1.4.2/lumaupdater-1.4.2.zip is not for user's firmware (All).
+26/01/17 01:10:27: https://github.com/Cruel/DspDump/releases/download/1.0/DspDump.3dsx is not for user's firmware (All).
+26/01/17 01:10:27: http://smealum.github.io/ninjhax2/starter.zip is not for user's firmware (All).
+26/01/17 01:10:27: https://github.com/Plailect/SafeA9LHInstaller/releases/download/v2.0.6/SafeA9LHInstallerv2.0.6.7z is not for user's firmware (All).
+26/01/17 01:10:27: https://github.com/Steveice10/FBI/releases/download/2.4.7/FBI.zip is not for user's firmware (All).
